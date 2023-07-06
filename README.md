@@ -26,3 +26,5 @@ Association Mining and Clustering
 In this assignment, I was given the data of 38 people from an eye-tracking experiment with the same web page, and I had to apply some Apriori and DBSCAN expiremnts.  
 
 #------------------------------------------
+
+#Project
