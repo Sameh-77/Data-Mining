@@ -5,7 +5,7 @@ from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import association_rules
 
 
-sequences = open('Apple_sequence_dataset.txt', 'r') # reading the .txt file 
+sequences = open('yourData', 'r') # reading the .txt file 
 
 #Reading all lines from our file
 lines = sequences.readlines() # reading the lines 
