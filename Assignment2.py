@@ -11,7 +11,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
-dataSet = pandas.read_csv("CNG514-Assignment-2-data.csv")
+dataSet = pandas.read_csv("yourData")
 
 #pandas.set_option('display.max_rows', None)
 
