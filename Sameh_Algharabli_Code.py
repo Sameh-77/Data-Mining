@@ -4,7 +4,7 @@ import matplotlib.pyplot as plot
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
-dataSet = pandas.read_csv("cng514-covid-survey-data.csv", index_col='ParticipantId')
+dataSet = pandas.read_csv("yourData", index_col='theUniqueIdOrAttributeOfYourData')
 
 #----------------------------Mean------------------------#
 print("\n##########---------- Mean ----------##########\n")
